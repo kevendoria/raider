@@ -76,7 +76,7 @@ msgstr "Nova Janela"
 
 #: src/raider-shortcuts.blp:27
 msgid "Quit"
-msgstr ""
+msgstr "Desistir"
 
 #: src/raider-window.blp:31
 msgid "Add"
